@@ -23,13 +23,13 @@ The positions on the board are numbered as follows:
  0 | 1 | 2
 ---|---|---
  3 | 4 | 5
----|---|---
+   |   |
  6 | 7 | 8
 
 
 Requirements
 
-* Python 3.x
+* Python 3
 * No external dependencies
 
 
