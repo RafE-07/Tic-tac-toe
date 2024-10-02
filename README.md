@@ -38,7 +38,9 @@ Running the Game:
 (Git Bash)
 
 1.Clone this repository to your lo cal machine: git clone https://github.com/RafE-07/tic-tac-toe.git
+
 2.Navigate to the project folder: cd tic-tac-toe
+
 3.Run the Python script: python main.py
 
  Contributor
